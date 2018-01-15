@@ -15,17 +15,13 @@ function imgreplace3(){
 }
 
 function imgreplace4(){
-	document.getElementById("background-img").src = "images/Github.png";
+	document.getElementById("background-img").src = "images/Github.PNG";
 }
 
 function imgreplace5(){
-	document.getElementById("background-img").src = "images/Website.png";
+	document.getElementById("background-img").src = "images/Website.PNG";
 }
 
 function imgreplace6(){
 	document.getElementById("background-img").src = "images/1.png";
-}
-
-function regimg(){
-	document.getElementById("background-img").src = "images/background2.png";
 }
