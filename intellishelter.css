@@ -1,0 +1,54 @@
+body {
+	font-family: "Open Sans", sans-serif;
+}
+
+.menu {
+	color: #1c1231;
+	padding: 0px 0px 0px 30px;
+}
+
+.menubox{
+	display: flex;
+	flex-direction: row;
+	margin-left: 50px;
+	letter-spacing: 2px;
+}
+
+#app {
+	width: 400px;
+	height: 750px;
+	border: none;
+	margin-left: 50px;
+}
+
+#box {
+	display: inline-block;
+}
+
+#box2{
+	max-width: 600px;
+	display: inline-block;
+	vertical-align: top;
+	font-family: "Arial", sans-serif;
+	font-weight: bold;
+	line-height: 160%;
+	margin-top: 40px;
+}
+
+
+a:link {
+	color: #1c1231;
+	text-decoration: underline;
+	text-decoration-color: #d2d5db;
+}
+
+a:visited {
+	color: #1c1231;
+	text-decoration: underline;
+	text-decoration-color: #d2d5db;
+}
+
+a:hover {
+	color: gray;
+	text-decoration-color: #1c1231;
+}
